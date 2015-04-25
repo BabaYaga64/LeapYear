@@ -15,6 +15,7 @@ This app takes an integer input of a year and then tells you if it is a leap yea
 ###Technology
 
 * JavaScript
+* jQuery
 * Mocha
 * Chai
 * HTML5
